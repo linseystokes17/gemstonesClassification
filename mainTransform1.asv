@@ -1,6 +1,0 @@
-topaz1 = imread("gemstones/train/Topaz/topaz_0.jpg");
-topaz2 = imread("gemstones/train/Topaz/topaz_1.jpg");
-imshow(topaz1);
-imshow(topaz1);
-pause;
-close;
